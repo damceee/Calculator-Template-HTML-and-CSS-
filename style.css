@@ -8,9 +8,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    font-family: roboto;
 }
 h1{
     font-size: 45px;
+    font-family: roboto;
 }
 
 input{
@@ -22,7 +24,7 @@ input{
     background-color: red;
     color: black;
     border-style: none;
-
+    font-family: roboto;
 }
 
 .btn:hover{
